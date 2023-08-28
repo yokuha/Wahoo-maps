@@ -24,3 +24,7 @@ for newbies. Any feedback and help in that respect is very welcome.
 * This [render-theme by zenziwerken](https://github.com/zenziwerken/Bolt2-Mapsforge-VTM-Rendertheme)
   provides a good updated rendertheme for Bolt v2 and Roam computers. This is
   also the base for the [theme in this project](https://github.com/yokuha/Bolt2-Mapsforge-VTM-Rendertheme).
+
+## Informtion on Zoom-level scales
+
+* https://github.com/treee111/wahooMapsCreator/blob/develop/docs/TAGS_ON_MAP_AND_DEVICE.md#zoom-levels-and-scale
