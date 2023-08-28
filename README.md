@@ -21,6 +21,6 @@ for newbies. Any feedback and help in that respect is very welcome.
   us the process of going through
   [wahooMapsCreator](https://github.com/treee111/wahooMapsCreator/tree/develop)
   ourselves;-)
-* This [render-theme](https://github.com/zenziwerken/Bolt2-Mapsforge-VTM-Rendertheme)
+* This [render-theme by zenziwerken](https://github.com/zenziwerken/Bolt2-Mapsforge-VTM-Rendertheme)
   provides a good updated rendertheme for Bolt v2 and Roam computers. This is
-  also the base for the [theme in this project](render-theme).
+  also the base for the [theme in this project](https://github.com/yokuha/Bolt2-Mapsforge-VTM-Rendertheme).
