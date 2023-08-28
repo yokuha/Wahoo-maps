@@ -1,0 +1,3 @@
+[submodule "vtm-theme"]
+	path = vtm-theme
+	url = https://github.com/yokuha/Bolt2-Mapsforge-VTM-Rendertheme.git
