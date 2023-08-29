@@ -2,13 +2,39 @@
 
 Documentation and personal adaptations of homebuilt Wahoo maps and themes.
 
-In this project, I'll try to provide a consistent, hopefully low-entrance key,
+In this project, I'll try to provide a consistent, hopefully easily accessible,
 documentation of the installation of updated maps for Wahoo Roam and Bolt GPS
-cycling computers.
+cycling computers. This discussion is focused on, and often limited to, the Bolt
+v2 and Roam v2 computers, which I will jointly refer to as ``Wahoo'' in this
+documentation.
 
 This is really a very simple and small project standing on the shoulders of
 Giants, or even more so, simply trying to provide a single-stop documentation
 for newbies. Any feedback and help in that respect is very welcome.
+
+
+
+# Improving the maps on Wahoo bike computers
+
+The easiest update to implement is to use an updated render theme, as the on
+contained in this project. This can be done by copying the files from
+[render-theme/] to your Wahoo:
+* connect the Wahoo to the computer _via_ USB and turn it on
+* create `maps/vtm-elemnt`, for instance, using [Android File transfer]
+* copy the content of (render-theme/) on your computer to `maps/vtm-elemnt` on
+  the Wahoo.
+
+
+
+## Showing points of interest (POIs)
+
+
+
+# Access options to your GPS computer
+
+## Android File transfer
+
+
 
 # Other resources
 
@@ -23,7 +49,7 @@ for newbies. Any feedback and help in that respect is very welcome.
   ourselves;-)
 * This [render-theme by zenziwerken](https://github.com/zenziwerken/Bolt2-Mapsforge-VTM-Rendertheme)
   provides a good updated rendertheme for Bolt v2 and Roam computers. This is
-  also the base for the [theme in this project](https://github.com/yokuha/Bolt2-Mapsforge-VTM-Rendertheme).
+  also the base for the [theme in this project](render-theme/).
 
 ## Informtion on Zoom-level scales
 
