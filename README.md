@@ -49,7 +49,7 @@ could include, for instance, more or other points of interest.
 
 The straightforward approach is to download pre-built maps. A great resource is
 the
-[OneDrive%20folder](https://onedrive.live.com/?authkey=%21AM8e4ViJIHdmOyU&id=F4E28DC020FD3904%21120&cid=F4E28DC020FD3904)
+[OneDrive folder](https://onedrive.live.com/?authkey=%21AM8e4ViJIHdmOyU&id=F4E28DC020FD3904%21120&cid=F4E28DC020FD3904)
 of ebe, which contains a large set of maps and routing tiles for direct use.
 
 Currently, these maps contain many POIs for Zoom levels "100 m" and below.
@@ -77,10 +77,6 @@ usage are available in the project, some guidelines will follow here.
 
 # Other resources
 
-* This [render-theme by zenziwerken](https://github.com/zenziwerken/Bolt2-Mapsforge-VTM-Rendertheme)
-  provides a good updated rendertheme for Bolt v2 and Roam computers. This is
-  also the base for the [theme in this project](https://github.com/yokuha/Bolt2-Mapsforge-VTM-Rendertheme).
-
-## Informtion on Zoom-level scales
+## Information on Zoom-level scales
 
 * https://github.com/treee111/wahooMapsCreator/blob/develop/docs/TAGS_ON_MAP_AND_DEVICE.md#zoom-levels-and-scale
