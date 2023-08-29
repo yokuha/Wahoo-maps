@@ -5,8 +5,8 @@ Documentation and personal adaptations of homebuilt Wahoo maps and themes.
 In this project, I'll try to provide a consistent, hopefully easily accessible,
 documentation of the installation of updated maps for Wahoo Roam and Bolt GPS
 cycling computers. This discussion is focused on, and often limited to, the Bolt
-v2 and Roam v2 computers, which I will jointly refer to as ``WAHOO'' in this
-documentation (while ``Wahoo'' refers to the company).
+v2 and Roam v2 computers, which I will jointly refer to as "WAHOO" in this
+documentation (while "Wahoo" refers to the company).
 
 This is really a very simple and small project standing on the shoulders of
 Giants, or even more so, simply trying to provide a single-stop documentation
